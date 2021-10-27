@@ -56,4 +56,7 @@
   [Github Repo](https://github.com/jcgasper/E-Commerce-Backend "Github Repo")
   
 
-  [Video Walkthrough]( "Video walkthrough");
+  [Video Walkthrough](https://drive.google.com/drive/u/0/folders/1P7ZLz75soa2yWlqPlVFQ1BlfmvxGp6Mm "Video walkthrough 1 GET");
+  [Video Walkthrough](https://drive.google.com/file/d/17A2gEXPbj0_fcoQ_tPwON-Ny-dFnzBZ_/view?usp=sharing "Video walkthrough 2 POST");
+  [Video Walkthrough](https://drive.google.com/file/d/1SbGRygLP-XlhpNfSSezqNoYFPxTQuv5s/view?usp=sharing "Video walkthrough 3 PUT");
+  [Video Walkthrough](https://drive.google.com/file/d/1KxDk8yJEBFqcavUohHcJ52aTWt0SRIh3/view?usp=sharing "Video walkthrough 4 DELETE");
